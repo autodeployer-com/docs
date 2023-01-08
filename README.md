@@ -15,3 +15,6 @@ It allows developers and system administrators to automate the process of deploy
 + Faster Deployment: Autodeployer can help speed up the deployment process, thus allowing applications to be released faster.
 
 
+## Use case of autodeployer SaaS platform 
+
+Autodeployer can be used in many different scenarios. For example, a software development team may use Autodeployer to automate the process of deploying applications to their production environment. The Autodeployer SaaS platform could be used to quickly and reliably deploy the latest version of an application, as well as automatically configure the related components. Autodeployer can also be used to automatically deploy updates and patches, ensuring that applications are always up to date.
