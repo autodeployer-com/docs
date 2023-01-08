@@ -18,3 +18,12 @@ It allows developers and system administrators to automate the process of deploy
 ## Use case of autodeployer SaaS platform 
 
 Autodeployer can be used in many different scenarios. For example, a software development team may use Autodeployer to automate the process of deploying applications to their production environment. The Autodeployer SaaS platform could be used to quickly and reliably deploy the latest version of an application, as well as automatically configure the related components. Autodeployer can also be used to automatically deploy updates and patches, ensuring that applications are always up to date.
+
+
+##  Product description: 
+
+a SaaS platform to auto deploy any apps and function
++ saas, function, FaaS, deployment, automatically, continuous delivery.
++ Auto Deployment Platform, auto delivery of applications
+
+Auto Deployment Platform is a Software-as-a-Service (SaaS) platform that enables automated deployment of any functions and applications. With our platform, users can easily and quickly deploy their functions and applications with a few clicks. The platform is based on a continuous delivery model and automates any subsequent updates for seamless and hassle-free deployment. Our platform is designed to be user-friendly and highly reliable, allowing users to quickly develop, deploy and manage their applications. We also provide 24/7 customer support to ensure that any issues are quickly and efficiently resolved.
