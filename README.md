@@ -4,6 +4,30 @@ Autodeployer is a tool that automates the process of deploying applications and 
 
 It allows developers and system administrators to automate the process of deploying applications, as well as configuring and managing the related components. Autodeployer can be used to streamline the process of deploying applications, reduce manual effort, and help ensure consistent and reliable delivery.
 
+## Solutions
+
+###  Text To APP - dialogware.com
+
+###  Text To API Request
+
+###  Text To SHELL Command - poloshell.com
+
+###  Text To REGEX Formula - https://www.autoregex.xyz/
+
+###  Text To API
+
+
+###  Text To WEB - from english description to vue module
+
+###  Text to Apidsl
+
+### text to docker 
+
+[gofireflyio/aiac: Artificial Intelligence Infrastructure-as-Code Generator.](https://github.com/gofireflyio/aiac)
+
+> `aiac` is a command line tool to generate IaC (Infrastructure as Code) templates, configurations, utilities, queries and more via [OpenAI](https://openai.com/)'s API. The CLI allows you to ask the model to generate templates for different scenarios (e.g. "get terraform for AWS EC2"). It will make the request, and store the resulting code to a file, or simply print it to standard output.
+
+
 
 
 ## Benefits of autodeployer SaaS platform 
