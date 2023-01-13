@@ -4,6 +4,32 @@ Autodeployer is a tool that automates the process of deploying applications and 
 
 It allows developers and system administrators to automate the process of deploying applications, as well as configuring and managing the related components. Autodeployer can be used to streamline the process of deploying applications, reduce manual effort, and help ensure consistent and reliable delivery.
 
+## TODO
+
+"Hello World" dla róznych rozwiązań, może przykład jest na github
+zrobić jako przykłady dla różnych jezyków w formacie:
++ output: /src
++ input: readme.md
+
+## Dlaczego powstała platforma?
+
+### Redukcja bariery wejścia
+
+osoby które chcą wejść w rynek IT jako twórcy aplikacji i usług SaaS nie są już skazane na uczenie sie składni języków programowania
+ są oddalone w czasie - efekt tego jest taki że apsirujący do programisty tracą zapał i poddają się
+
+### Rezultaty - Motywacja
+
+z osobami które nie programowały: osoby te zobaczyły że w sposób zrozumiały, wręcz intuicyjny, mogą zbudować działającą aplikację.
+Nagroda za wysiłek nie jest oddalona, a jest namacalna
+
+### Język naturalny - prostota
+
+Dokumentacja zrozumiała dla biznesu 
+ twórca aplikacji opisuje językiem naturalnym bliższym jemu i biznesowi
+
+
+
 ## Solutions
 
 ###  Text To APP - dialogware.com
