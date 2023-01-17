@@ -47,9 +47,8 @@ Dokumentacja zrozumiała dla biznesu
 
 ###  Text to Apidsl
 
-### text to docker 
-
-[gofireflyio/aiac: Artificial Intelligence Infrastructure-as-Code Generator.](https://github.com/gofireflyio/aiac)
+### text to Infra, docker 
++ [gofireflyio/aiac: Artificial Intelligence Infrastructure-as-Code Generator.](https://github.com/gofireflyio/aiac)
 
 > `aiac` is a command line tool to generate IaC (Infrastructure as Code) templates, configurations, utilities, queries and more via [OpenAI](https://openai.com/)'s API. The CLI allows you to ask the model to generate templates for different scenarios (e.g. "get terraform for AWS EC2"). It will make the request, and store the resulting code to a file, or simply print it to standard output.
 
